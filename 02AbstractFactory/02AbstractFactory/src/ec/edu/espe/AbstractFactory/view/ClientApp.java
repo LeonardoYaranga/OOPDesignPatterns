@@ -13,15 +13,15 @@ public class ClientApp {
     public static void main(String[] args) {
         GUIFactory gUIFactory = GUIFactory.getFactory("Windows");
 
-        Button buttonA = gUIFactory.createButton();
-        buttonA.caption = "Press";
+        Button redButton = gUIFactory.createButton();
+        redButton.caption = "Press";
 
-        buttonA.paint();
+        redButton.paint();
 
-        Menu menuA = gUIFactory.createMenu();
-        menuA.caption = "Show";
+        Menu blueMenu = gUIFactory.createMenu();
+        blueMenu.caption = "Show";
 
-        menuA.paint();
+        blueMenu.paint();
 
     }
 
