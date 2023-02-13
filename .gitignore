@@ -23,3 +23,8 @@
 hs_err_pid*
 /02AbstractFactory/02AbstractFactory/build/
 /02AbstractFactory/02AbstractFactory/dist/
+/04TemplateMethod/04TemplateMethod/nbproject/private/
+/04TemplateMethod/04TemplateMethod/build/
+/04TemplateMethod/04TemplateMethod/dist/
+/04TemplateMethod/06Strategy/nbproject/private/
+/06Strategy/06Strategy/build/
