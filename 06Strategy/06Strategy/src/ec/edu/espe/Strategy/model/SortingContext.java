@@ -11,7 +11,7 @@ public class SortingContext {
 
     public int[] sort(int data[]) {
 
-        int size = String.valueOf(data).length();
+        int size = data.length;
 
         ss = setSortStrategy(size);
 

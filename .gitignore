@@ -28,6 +28,10 @@ hs_err_pid*
 /04TemplateMethod/04TemplateMethod/dist/
 /04TemplateMethod/06Strategy/nbproject/private/
 /06Strategy/06Strategy/build/
+<<<<<<< HEAD
 /03Singleton/nbproject/private/
 /01Singleton/03Singleton/nbproject/private/
 /01Singleton/03Singleton/build/
+=======
+/06Strategy/06Strategy/dist/
+>>>>>>> 3ef78121fd2f30992b3d8b9a0fe7688975b99ff2
